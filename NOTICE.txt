@@ -2,3 +2,4 @@ This software includes code from IntelliJ IDEA Community Edition
 Copyright (C) JetBrains s.r.o.
 https://www.jetbrains.com/idea/
 //1. Added this comment
+//2. Added second comment
